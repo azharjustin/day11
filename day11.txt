@@ -1,0 +1,29 @@
+1.Fix the bugs in below snippet
+
+
+<!Doctype html>    
+<html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div>Guvi Geek Network</div>
+        </body>
+    </html>
+
+2.Try the below one
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Document</title>
+            <body>guvi</body>
+    </head>
+  <body>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
